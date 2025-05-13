@@ -1,0 +1,14 @@
+.display {
+    padding: 20px;
+    text-align: right;
+    background-color: #333;
+    color: white;
+  }
+  
+  .display-value {
+    font-size: 2.5rem;
+    font-weight: 200;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+  
